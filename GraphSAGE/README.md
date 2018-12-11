@@ -1,4 +1,9 @@
-## GraphSage: Representation Learning on Large Graphs
+ In this folder we adapted GraphSAGE framework to train our embeddings. The following is the original README.md
+ 
+ ------------------------
+
+
+### GraphSage: Representation Learning on Large Graphs
 
 #### Authors: [William L. Hamilton](http://stanford.edu/~wleif) (wleif@stanford.edu), [Rex Ying](http://joy-of-thinking.weebly.com/) (rexying@stanford.edu)
 #### [Project Website](http://snap.stanford.edu/graphsage/)
